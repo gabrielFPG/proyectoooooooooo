@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20015886923",
+    "project_id": "wikifood-9fb3b",
+    "storage_bucket": "wikifood-9fb3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20015886923:android:45b605732da1ea617993ce",
+        "android_client_info": {
+          "package_name": "com.example.wikifood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQRE9tuyaNNQNiXwy2PpsQoXGGKM9utiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
