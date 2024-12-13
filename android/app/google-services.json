@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:20015886923:android:0bfaef0f7cb2d2e67993ce",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQRE9tuyaNNQNiXwy2PpsQoXGGKM9utiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:20015886923:android:45b605732da1ea617993ce",
         "android_client_info": {
           "package_name": "com.example.wikifood"
